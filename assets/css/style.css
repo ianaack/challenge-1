@@ -67,6 +67,15 @@ footer h2 {
     float: right;
     margin-left: 25px;
 }
+
+.column-left {
+    float: left;
+    width: 75%;
+}
+
+.column-right {
+    width: 25%
+}
 /*End Utility CSS*/
 
 /*Hero Style Starts*/
@@ -82,7 +91,7 @@ footer h2 {
 
 /*Content Style Starts*/
 .content {
-    width: 75%;
+    width: auto;
     display: inline-block;
     margin-left: 20px;
 }
