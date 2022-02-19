@@ -74,6 +74,7 @@ footer h2 {
 }
 
 .column-right {
+    float: right;
     width: 25%
 }
 /*End Utility CSS*/
@@ -91,7 +92,7 @@ footer h2 {
 
 /*Content Style Starts*/
 .content {
-    width: auto;
+    width: 100%;
     display: inline-block;
     margin-left: 20px;
 }
@@ -119,7 +120,6 @@ footer h2 {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
