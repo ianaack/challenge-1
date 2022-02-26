@@ -8,6 +8,8 @@ Horiseon has asked us to refactor and improve their existing HTML and CSS files 
 
 ## Website
 https://ianaack.github.io/challenge-1/
+![website-screenshot](https://user-images.githubusercontent.com/47282257/155850431-e9142c53-5499-4918-acf0-ae92114f0fc7.png)
+
 ## Contribution
 Made with ❤️️ by Ian Ackerman
 ## License
